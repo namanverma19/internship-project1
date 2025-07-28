@@ -1,0 +1,18 @@
+body{
+    background-image: url(img/pexels-padrinan-3752037.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:50%;
+    padding-bottom: 400px;
+
+}
+.my-margin{
+    margin-top: 400px;
+    margin-left: 60%;
+    
+}
+.card {
+    background-color: rgba(255, 255, 255, 0.35); /* Slight transparency */
+    backdrop-filter: blur(35px); /* Optional glass effect */
+  }
